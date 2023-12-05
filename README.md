@@ -12,3 +12,9 @@ I have completed Internship 'Task-2', Which involves creating a "Task Schedular"
 there are 2 files, but if you have to run it task you have to run 'TaskSchedular.java' file.   <br>
 file name = Task.java  <br>
 main method file name = TaskSchedular.java  <br>
+
+I have completed Internship 'Task-3', Which involves creating a "Online Quiz App", I've incorporated 10 multiple choice based questions with it's 4 options.
+there are 3 files, but if you have to run it task you have to run 'TaskSchedular.java' file.   <br>
+file name = Question.java  <br>
+file name = Quiz.java  <br>
+main method file name = QuizApp.java  <br>
